@@ -1,4 +1,4 @@
-# Hair Day – Appointment Scheduler
+# Barbershop Scheduling API
 
 Hair Day is a simple and modern appointment scheduling application built with vanilla JavaScript.
 
